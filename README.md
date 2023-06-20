@@ -1,7 +1,9 @@
-Thie code is provided by the authors of the paper:
+This is the implementation code for VCSDFS (Unsupervised Feature Selection Based on Variance-Covariance Subspace Distance).
 
- S. Karami et al., Unsupervised Feature Selection Based on
-Variance-Covariance Subspace Distance, (2023) in Neural Networks Journal
+please cite the following reference:
+
+[1] S. Karami, F. Saberi-Movahed, P. Tiwari, P. Marttinen, S. Vahdati, "Unsupervised Feature Selection Based on Variance-Covariance Subspace Distance", Accepted in Neural Networks Journal.
+
 
 Contact information:  s.karami@iasbs.ac.ir   and  saeedkarami2012@gmail.com
 
