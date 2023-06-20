@@ -1,6 +1,6 @@
 clc; clear; close all; 
 % This demo runs the feature selection method VCSDFS on  COIL20 dataset and report the evaluation measures ACC and NMI.
-% Please consider Experimental settings for get the better results.
+% Please consider Experimental settings for getting the better results.
 load COIL20;
 X=fea;                            % data matrix.
 Y=gnd;                            % ground truth lables.
