@@ -14,13 +14,10 @@ Contact information:  s.karami@iasbs.ac.ir   and  saeedkarami2012@gmail.com
 
 Quick hints for runnig the code:
 
-1-open  demo.m
+-run  demo.m
 
-2-run the algorithm 
-
-#====================================================================
-
-Notes:
 If you want to implement VCSDFS on your  dataset, please replace it by the current COIL20.mat 
 and then load it (in line 4 of demo.m).
+
+#====================================================================
 
